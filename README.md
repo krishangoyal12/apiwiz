@@ -1,7 +1,3 @@
-Absolutely! Below is the complete, clean, and Markdown-safe `README.md` content that you can **copy-paste directly** into your project. It’s fully compatible with [npmjs.com](https://www.npmjs.com/) — no weird characters, broken formatting, or encoding issues.
-
----
-
 # 📦 apiwiz
 
 > A lightweight and flexible Node.js helper to simplify all types of HTTP API calls — no more boilerplate or manual `try-catch`!
@@ -253,5 +249,5 @@ if (error) {
 ```json
 "files": [
   "README.md",
-  "index.js"
+  "server.js"
 ]
