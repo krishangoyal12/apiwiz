@@ -23,7 +23,7 @@
 
 ```bash
 npm install apiwiz
-````
+```` 
 
 ---
 
