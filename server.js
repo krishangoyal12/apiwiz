@@ -21,7 +21,7 @@ function createApiHelper(config = {}) {
 
   const instance = axios.create({
     ...axiosConfig,
-    ...(timeout ? { timeout } : {})
+    ...(timeout ? { timeout } : {}) 
   });
 
   function setAuthToken(token) {
