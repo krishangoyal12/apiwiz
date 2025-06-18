@@ -239,15 +239,3 @@ if (error) {
 * Cleaner, consistent API responses
 * Built-in support for authentication, retries, timeouts, and cancellations
 * Minimal and flexible — works with any backend project
-
----
-
-### ✅ Final Tips Before Publishing:
-
-- Make sure your `README.md` is in the root of your npm package.
-- In `package.json`, verify:
-```json
-"files": [
-  "README.md",
-  "server.js"
-]
