@@ -1,6 +1,6 @@
 {
   "name": "apiwiz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight and flexible Node.js package to simplify GET, POST, PUT, and DELETE and much more API calls — no more boilerplate code for HTTP requests",
   "homepage": "https://github.com/krishangoyal12/apiwiz#readme",
   "bugs": {
